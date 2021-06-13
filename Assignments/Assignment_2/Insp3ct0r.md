@@ -6,7 +6,7 @@ Challenge Page: [Insp3ct0r](https://jupiter.challenges.picoctf.org/problem/44924
 
 ## Walkthrough
 
-Starting from the clicking on the buttons on the webpage which didn't tell much about finding the flag.Next i inspected the sourse code of the website ,there i got the flag, which was hardcoded into three parts in the HTML CSS JS files.
+Starting from the clicking on the buttons on the webpage which didn't tell much about finding the flag.Next i inspected the source code of the website ,there i got the flag, which was hardcoded into three parts in the HTML CSS JS files.
 
 ## Flag
 
